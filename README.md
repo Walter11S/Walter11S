@@ -5,3 +5,6 @@
 
 ## Contribuciones:
 <a href="#"><img src="github-contribution.svg"></a>
+
+## Proyectos:
+> [![proyecto_1](https://badgen.net/badge/TerminalMc/Web/black?icon=github)](https://github.com/Walter11S/TerminallMc-Web)
