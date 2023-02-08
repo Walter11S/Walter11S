@@ -1,5 +1,5 @@
 <p align="center"> 
-  Recuento de visitantes<br>
+  Visitas del perfil<br>
   <img src="https://profile-counter.glitch.me/Walter11S/count.svg" />
 </p>
 
@@ -12,6 +12,6 @@
 [![add](https://badgen.net/badge/Discord/Bot/black?icon=discord)](https://discord.com/oauth2/authorize?client_id=1016056366063964181&scope=bot%20applications.commands&permissions=2146958847)
 <br>
 
-## Contacto: 
+## Contactos: 
   **Gmail**:
   weroodev@gmail.com
