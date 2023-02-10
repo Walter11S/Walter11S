@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/Walter11S/count.svg" />
 </p>
 
-## Contribuciones durante el año:
+<h2 align="left">Contribuciónes durante el año</h2>
 <a href="#"><img src="github-contribution.svg"></a>
 
 <h2 align="left">Lenguajes:</h2>
@@ -14,11 +14,13 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Walter11S&show_icons=true&locale=en&layout=compact"/>
-<br>
-<br>
-<br>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-## Proyectos:
+<h2 algin="left">Proyectos:</h2>
+
 > [![proyecto_1](https://badgen.net/badge/TerminalMc/Web/black?icon=github)](https://github.com/Walter11S/TerminallMc-Web)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![add](https://badgen.net/badge/Discord/Bot/black?icon=discord)](https://discord.com/oauth2/authorize?client_id=1016056366063964181&scope=bot%20applications.commands&permissions=2146958847)
